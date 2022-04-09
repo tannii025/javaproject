@@ -2,8 +2,8 @@ package Unit_01;
 
 public class keyword {
 	//private:"Inside class only"
-	//Protected: Class+ same package
-	//public: Class+within the package+outside the package
+	//Protected: Class same package
+	//public: Class within the package + outside the package
 	//Default: No Keyword,package-private{Not outside package}
 	public class P2_Task02_ConstantsInJava {
 		//final keyword is used for assigning a constant value which will remain same throughout the program
