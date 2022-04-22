@@ -42,8 +42,8 @@ class StringsInJava {
 		         Instead, the new reference, example points to the already existed string(Java).
 		      - If the string doesn't exist, the new string Java is created
 		 */
-		String fourth = "Tejaswani";
-		String fifth = new String("Upadhyay!");
+		String fourth = "Tanvi";
+		String fifth = new String("Joshi! ");
 	}
 	
 	/*
